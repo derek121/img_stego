@@ -2,4 +2,5 @@
 ebin/
 .rebar/
 deps/
-
+.idea
+img_stego.iml
