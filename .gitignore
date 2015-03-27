@@ -4,3 +4,5 @@ ebin/
 deps/
 .idea
 img_stego.iml
+.eunit/
+priv/test_out.png
