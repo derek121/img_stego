@@ -1,0 +1,11 @@
+{application, img_stego,
+ [
+  {description, "Steganography - embed data within images"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {env, []}
+ ]}.
