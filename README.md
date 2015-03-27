@@ -13,8 +13,9 @@ $ make run
 #Using
 ##Embedding a File
 ```
-img_png:add_message_from_file(PathToSourceFile, PathToSourcePng, PathToOutputPng).
+img_png:add_message_from_file(PathToMessageFile, PathToInputPng, PathToOutputPng).
 ```
+Or, using the separate init/add/write functions in `img_png`.
 
 ##Extracting a file
 ```
